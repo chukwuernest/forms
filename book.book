@@ -1,0 +1,34 @@
+.try {
+  position: absolute;
+  background-color: hsl(248, 32%, 49%);
+  border-radius: 10px;
+  padding: 3px 40px;
+}
+
+.forms {
+  position: absolute;
+  padding: 20px 30px;
+  border-radius: 10px;
+  color: hsl(249, 10%, 26%);
+  background-color: white;
+  align-content: center;
+}
+
+.footer {
+  color: white;
+  background-color: hsl(154, 59%, 51%);
+  padding: 10px 40px;
+  border-radius: 10px;
+  text-transform: capitalize;
+  align-content: center;
+}
+span {
+  color: hsl(0, 100%, 74%);
+}
+h1 {
+  font-size: xx-large;
+}
+
+p {
+  line-height: 2em;
+}
